@@ -1,0 +1,34 @@
+#mainscreen {
+    font-family: 'Fugaz One', cursive;
+    background-image: linear-gradient(#f1a128 0%, #f747c2 100%);
+  }
+  #btn {
+   background-color: cornflowerblue;
+   margin-top: 15px;
+   width: 150px;
+   font-weight: bolder;
+   letter-spacing: 2px;
+   background-color: rgb(54, 4, 100);
+   color: aliceblue;
+}
+  .header_div {
+   color:rgb(54, 4, 100);
+   background-color: cadetblue;
+}
+.header_div p {
+   color: rgb(6, 5, 97);
+   letter-spacing: 2px;
+   font-size: 15px;
+   font-weight: bold;
+}
+.copy_right_footer {
+   position: fixed;
+   color: rgb(6, 5, 97);
+   background-color: cadetblue;
+   bottom: 0;
+   width: 100%;
+   font-size: 20px;
+   line-height: 2;
+   text-align: center;
+   text-shadow: 5px 5px 5px rgb(134, 133, 128);
+}
